@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>项目批处理配置</comment>
+<entry key="modifyTemplate">{projects\AutoPackageDemo\src\demo\hello\MainActivity.java,13,public static String PUB_ID="${pubID:#pubID}";}</entry>
+<entry key="projectPath">projects\AutoPackageDemo</entry>
+</properties>
