@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>配置</comment>
+<entry key="outDir">apks</entry>
+<entry key="path"></entry>
+<entry key="keystore">keystores\default.keystore</entry>
+<entry key="account">accounts\my.account</entry>
+<entry key="projectConfigUrl"></entry>
+<entry key="libProjectConfigUrl"></entry>
+<entry key="nameTemplate">${projectName}_android_${targetVersion}_v${projectVersion}_xxx.apk</entry>
+</properties>
